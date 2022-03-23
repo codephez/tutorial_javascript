@@ -7,5 +7,4 @@
   - [ ] Menetapkan nilai satu variable ke variable lain.
   - [ ] Inisialisasi Variable dengan operator penugasan.
   - [ ] Deklarasi Variable String.
-  - [ ] [linked phrase](http://example.com)
 
